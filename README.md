@@ -1,7 +1,6 @@
 # Project: Electricity Billing System
 
-*Developer:* Vicky Tiwari  
-*Enrollment No:* ODL/17/401/20079  
+*Developer:* Vicky Tiwari   
 
 ---
 
